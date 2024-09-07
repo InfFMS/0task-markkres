@@ -5,3 +5,8 @@ def f(n):
         return f(n-1)+f(n-2)
 a=5-1
 print(f(a))
+ 
+ 
+ grehnjwofihjrewfj]
+ 
+ fewfje
